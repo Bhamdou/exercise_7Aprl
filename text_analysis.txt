@@ -1,0 +1,4 @@
+In this exercise, we created a Python program to perform text analysis and Named Entity Recognition using the spaCy library.
+We loaded the English language model and processed a sample text. We tokenized the text and displayed basic statistics
+such as the number of tokens, unique tokens, and word frequency.
+Finally, we performed Named Entity Recognition on the text and displayed the extracted entities and their labels.
